@@ -1,5 +1,5 @@
 # Whats-New-Pussy-Cat
- I believe that coding is a skill that people should have because it teaches critical thinking. I am not quite yet an expert but I work hard to learn more everyday. These skills are more relevant to getting a job then those taught at most job training programs.
+This originally started as a way for me to teach my niece and nephew, but I have done community work in the past. I believe that coding is a skill that people should have because it teaches critical thinking. I am not quite yet an expert but I work hard to learn more everyday. These skills are more relevant to getting a job then those taught at most job training programs.
 
 Those programs are outdated, no longer serving their purpose, but rather a way for people to keep their jobs. I can understand that, but people really do need jobs. Its a myth that people like living in poverty and love welfare. It is also a myth that people do not want to work. There are bad apples in every class of society, its just the further up the ladder, the better the lawyer.
 
@@ -10,6 +10,7 @@ I am no angel or a bleeding heart but I am sick of the continued arguing as a na
 
 I look forward to any ideas or contributions you might have for this project because I think this is very important. It needs to be done. Thanks.
 
+The program should start with easier languages that help give a good foundation it if they desire to keep learning, and provide them with a small program at each juncture as incentive to keep learning.
              o
           o
        o      o      o
